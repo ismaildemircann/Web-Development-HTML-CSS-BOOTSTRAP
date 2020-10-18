@@ -7,4 +7,4 @@ https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/CSS%20My%20
 https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/TinDog-Start-master/
 
 ## 3) Hotel Website
-https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/Hotel Website/
+https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/Hotel%20Website/
