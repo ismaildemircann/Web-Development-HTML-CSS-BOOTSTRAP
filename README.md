@@ -8,3 +8,6 @@ https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/TinDog-Star
 
 ## 3) Hotel Website
 https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/Hotel%20Website/
+
+## 4) EdgeLedger Website
+https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/EdgeLedger%20Website/#home
