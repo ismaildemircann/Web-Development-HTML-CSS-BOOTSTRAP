@@ -18,7 +18,7 @@ window.onscroll = function () {
 };
 
 // Smooth Scrolling
-$("#navbar a, .btn").on("click", function (e) {
+$("#navbar a").on("click", function (e) {
   if (this.hash !== "") {
     e.preventDefault();
 
