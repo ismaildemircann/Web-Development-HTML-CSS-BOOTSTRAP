@@ -19,3 +19,7 @@ https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/Presentatio
 ## 6) Hamburger Overlay Menu
 
 https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/Hamburger%20Overlay%20Menu/
+
+## 7) Knowledge Timeline
+
+https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/Knowledge%20Timeline/index.html
