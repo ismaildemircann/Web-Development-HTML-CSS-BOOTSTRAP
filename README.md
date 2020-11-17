@@ -27,3 +27,7 @@ https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/Knowledge%2
 ## 8) Dropdown Menu
 
 https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/Dropdown%20Menu/
+
+## 9) NewsGrid Website
+
+https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/NewGrids%20Website/
