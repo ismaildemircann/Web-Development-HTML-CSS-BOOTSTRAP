@@ -139,6 +139,8 @@ img {
       border-color: #ccc; }
     #main-nav a.current {
       border-color: #ffbc00; }
+    #main-nav a.logo:hover {
+      border-color: transparent; }
 
 #header-home {
   background: url("../img/showcase.jpg") no-repeat center right/cover;
@@ -247,6 +249,18 @@ img {
 #about-a .award-3 .fas {
   color: #ffbc00;
   margin: 1rem; }
+
+#about-b .progress {
+  overflow: hidden;
+  height: 20px;
+  background: #ccc;
+  border-radius: 5px;
+  margin-bottom: 0.3rem; }
+  #about-b .progress div {
+    height: 100%;
+    color: #fff;
+    text-align: center;
+    background: #ffbc00; }
 
 #main-footer {
   background: #333;
