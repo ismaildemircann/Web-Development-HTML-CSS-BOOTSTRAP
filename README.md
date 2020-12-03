@@ -34,5 +34,4 @@ https://ismaildemircann.github.io/Web-Development-HTML-CSS-BOOTSTRAP/NewGrids%20
 
 ## 9) Portfolio Website
 
-http://ismaildemircan.com/index.html
-
+http://ismaildemircan.com
